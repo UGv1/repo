@@ -62,12 +62,12 @@
         },
         {
           "title": "Version",
-          "text": "1.7",
+          "text": "1.8",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "25/09/2020",
+          "text": "13/10/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -112,13 +112,13 @@
       "tabname": "Changelog",
       "views": [
    {
-          "title": "v1.7",
+          "title": "v1.8",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Changed Bundle ID",
+          "markdown": "\t\n\u2022 Added more icons",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         }
