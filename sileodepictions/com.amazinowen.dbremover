@@ -24,11 +24,11 @@
             "screenshots": [
          {
             "accessibilityText": "Screenshot",
-            "url": "https://UGv1.github.io/repo/dep/DBRemover/screenshots/DBR.jpg"
+            "url": "https://raw.githubusercontent.com/UGv1/repo/master/dep/DBRemover/screenshots/DBR.jpg"
          },
          {
             "accessibilityText": "Screenshot",
-             "url": "https://UGv1.github.io/repo/dep/DBRemover/screenshots/DBRu.jpg"
+             "url": "https://raw.githubusercontent.com/UGv1/repo/master/dep/DBRemover/screenshots/DBRu.jpg"
          }
           ],
           "class": "DepictionScreenshotsView"

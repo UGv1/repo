@@ -30,15 +30,15 @@
             "screenshots": [
          {
             "accessibilityText": "Screenshot",
-            "url": "https://UGv1.github.io/repo/dep/Colourful13/screenshots/Page%1.jpg"
+            "url": "https://raw.githubusercontent.com/UGv1/repo/master/dep/Colourful13/screenshots/Page%201.jpg"
          },
          {
             "accessibilityText": "Screenshot",
-             "url": "https://UGv1.github.io/repo/dep/Colourful13/screenshots/Page%2.jpg"
+             "url": "https://raw.githubusercontent.com/UGv1/repo/master/dep/Colourful13/screenshots/Page%202.jpg"
          },
          {
             "accessibilityText": "Screenshot",
-             "url": "https://UGv1.github.io/repo/dep/Colourful13/screenshots/Page%3.jpg"
+             "url": "https://raw.githubusercontent.com/UGv1/repo/master/dep/Colourful13/screenshots/Page%203.jpg"
          }
           ],
           "class": "DepictionScreenshotsView"
