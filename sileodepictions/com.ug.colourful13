@@ -118,12 +118,12 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 • Added more icons",
+          "markdown": "\t\n\u2022 Added more icons",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "\t\n\u2022 • Compressed Theme",
+          "markdown": "\t\n\u2022 Compressed Theme",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
