@@ -10,6 +10,13 @@
 		height:100%;
 		background-color:#101010;
 	}
+	#slide {
+		width: 280px;
+		height: 470px;
+		overflow-x: scroll;
+		overflow-y: hidden;
+		white-space: nowrap;
+}
 </style>
 </head>
 <body>
@@ -30,13 +37,14 @@
 	<div class="desc">
 	<p>The original audio visualiser tweak by NepetaDev with updates</p>
 	<p>Make sure you have Nepeta's Mirror Repo added to your package manager: https://chr0nict.github.io/Nepeta-Mirror/</p>
-	<p>iOS Version: 13+</p>
 	</div>
 	<br>
 	<b><p class="section">Screenshots</p></b>
-	<img style="width:160px;margin:0px;border-radius:10px;;margin-top:10px;" src="screenshots/lockscreen.jpg">
-	<img style="width:160px;margin:0px;border-radius:10px;;margin-top:10px;" src="screenshots/spotify.jpg">
-	<img style="width:160px;margin:0px;border-radius:10px;;margin-top:10px;" src="screenshots/music.jpg">
+	<div id="slide">
+	<img src="screenshots/lockscreen.jpg" width="280" height="460">
+	<img src="screenshots/music.jpg" width="280" height="460">
+	<img src="screenshots/spotify.jpg" width="280" height="460">
+	</div>
 	<br>
 	<b><p class="section">Dependancy</p></b>
 	<div class="depen">
@@ -50,6 +58,7 @@
 	<br>
 	<b><p class="section">Updates</p></b>
 	<div class="upd">
+	<p>iOS: 13.0 - 13.7</p>
 	<p>Updated: 13/10/20</p>
 	<p>Version: 0.2</p>
 	</div>

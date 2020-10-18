@@ -10,6 +10,13 @@
 		height:100%;
 		background-color:#101010;
 	}
+	#slide {
+		width: 280px;
+		height: 470px;
+		overflow-x: scroll;
+		overflow-y: hidden;
+		white-space: nowrap;
+	}
 </style>
 </head>
 <body>
@@ -30,15 +37,16 @@
 	<div class="desc">
 	<p>A Beautiful colourful icon theme!</p>
 	<p>To have icons in the settings download sparkdev's snowboard settings addon</p>
-	<p>iOS Version: 13+</p>
 	</div>
 	
 	&nbsp;
 	
 	<b><p class="section">Screenshots</p></b>
-	<img style="width:110px;margin:0px;border-radius:15px;;margin-top:10px;" src="screenshots/Page 1.jpg">
-	<img style="width:110px;margin:0px;border-radius:15px;;margin-top:10px;" src="screenshots/Page 2.jpg">
-	<img style="width:110px;margin:0px;border-radius:15px;;margin-top:10px;" src="screenshots/Page 3.jpg">
+	<div id="slide">
+	<img src="screenshots/Page 1.jpg" width="280" height="460">
+	<img src="screenshots/Page 2.jpg" width="280" height="460">
+	<img src="screenshots/Page 3.jpg" width="280" height="460">
+	</div>
 	
 	&nbsp;
 	
@@ -50,13 +58,14 @@
 	&nbsp;
 	<b><p class="section">Updates</p></b>
 	<div class="upd">
+	<p>iOS: 13.0 - 13.7</p>
 	<p>Updated: 18/10/20</p>
 	<p>Version: 2.1</p>
 	</div>
 	&nbsp;
 	<b><p class="section">Changelog</p></b>
 	<div class="chang">
-	<p>• Fixed Calender Text Size & Color</p>
+	<p>&bull; Fixed Calender Text Size & Color</p>
 	</div>
 	
 	&nbsp;
