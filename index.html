@@ -14,28 +14,24 @@ body, html{
 	background-color:#101010
 }
 
-.button{
+.button1{
 	display:inline-block;
 	width:80px;
 	padding:10px;
 	border-radius:10px;
-	background-color:#f19124;
+	background-color:#8B4513;
 	margin:10px;
 	color:white;
 	text-decoration:none;
 	font-weight:500;
+	transition: all 0.2s ease-in-out;
 }
-.button2{
-	display:inline-block;
-	width:80px;
-	padding:10px;
-	border-radius:10px;
-	background-color:#882999;
-	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
+
+.glow-button1:hover {
+	color: black;
+	box-shadow: 2px 2px 10px 10px #8b4513;
 }
+
 .button2{
 	display:inline-block;
 	width:80px;
@@ -46,6 +42,12 @@ body, html{
 	color:white;
 	text-decoration:none;
 	font-weight:500;
+	transition: all 0.2s ease-in-out;
+}
+
+.glow-button2:hover {
+	color: black;
+	box-shadow: 2px 2px 10px 10px #a8a7a7;
 }
 .button3{
 	display:inline-block;
@@ -57,7 +59,14 @@ body, html{
 	color:white;
 	text-decoration:none;
 	font-weight:500;
+	transition: all 0.2s ease-in-out;
 }
+
+.glow-button3:hover {
+	color: black;
+	box-shadow: 2px 2px 10px 10px #7cd6e2;
+}
+
 .button4{
 	display:inline-block;
 	width:80px;
@@ -68,6 +77,12 @@ body, html{
 	color:white;
 	text-decoration:none;
 	font-weight:500;
+	transition: all 0.2s ease-in-out;
+}
+
+.glow-button4:hover {
+	color: black;
+	box-shadow: 2px 2px 10px 10px #5d94fc;
 }
 </style>
 
@@ -80,10 +95,10 @@ body, html{
 	<p style="margin:10px;font-size:15px;color:#fff;">Tweaks & More..</p>
 	<br>
 	<p style="margin:10px;font-size:15px;color:#fff;">Click to Add</p>
-	<a class="button" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://UGv1.github.io/repo/">Cydia</a>
-	<a class="button2" href="zbra://sources/add/https://UGv1.github.io/repo/">Zebra</a>
-	<a class="button3" href="sileo://source/https://UGv1.github.io/repo/">Sileo</a>
-	<a class="button4" href="installer://add/repo=https://UGv1.github.io/repo/">Installer</a>
+	<a class="button1 glow-button1" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://UGv1.github.io/repo/">Cydia</a>
+	<a class="button2 glow-button2" href="zbra://sources/add/https://UGv1.github.io/repo/">Zebra</a>
+	<a class="button3 glow-button3" href="sileo://source/https://UGv1.github.io/repo/">Sileo</a>
+	<a class="button4 glow-button4" href="installer://add/repo=https://UGv1.github.io/repo/">Installer</a>
 </center>
 <center>
 
