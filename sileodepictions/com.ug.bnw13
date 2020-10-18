@@ -62,12 +62,12 @@
         },
         {
           "title": "Version",
-          "text": "2.0",
+          "text": "2.1",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "17/10/2020",
+          "text": "18/10/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -112,13 +112,13 @@
       "tabname": "Changelog",
       "views": [
    {
-          "title": "v2.0",
+          "title": "v2.1",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Added Calender Text Size & Color",
+          "markdown": "\t\n\u2022 Fixed Calender Text Size & Color",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
