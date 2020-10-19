@@ -1,86 +1,89 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
-<title>Colourful13</title>
-<link rel="shortcut icon" href="CF13_icon.png"/>
-<link rel="stylesheet" href="../css/pack.css">
-<style>
-	body, html{
-		height:100%;
-		background-color:#101010;
-	}
-	#slide {
-		width: 280px;
-		height: 470px;
-		overflow-x: scroll;
-		overflow-y: hidden;
-		white-space: nowrap;
-	}
-</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=0">
+	<link rel="shortcut icon" href="./img/CF13_icon.png"/>
+    <title>Colourful13</title>
+    <link rel="stylesheet" type="text/css" href="../css/pack.css">
+    <style>a, .tint, .table-btn:after {color: #c591ed} .active {color: #c591ed;border-bottom: 2px solid #c591ed;}</style>
+    <script src="../css/pack.js"></script>
+    <meta name="theme-color" content="#c591ed">
 </head>
 <body>
-
-<center>
-<div class="content">
-
-	<b><p class="section">Tweak</p></b>
-	<div class="title">
-		<img src="CF13_icon.png">
-		<h1>Colourful13</h1>
-		<p>Version: 2.1</p>
-		<p>Owner: UG</p>
-	</div>
-
-	<b><p class="section">Description</p></b>
-
-	<div class="desc">
-	<p>A Beautiful colourful icon theme!</p>
-	<p>To have icons in the settings download sparkdev's snowboard settings addon</p>
-	</div>
-	
-	&nbsp;
-	
-	<b><p class="section">Screenshots</p></b>
-	<div id="slide">
-	<img src="screenshots/Page 1.jpg" width="280" height="460">
-	<img src="screenshots/Page 2.jpg" width="280" height="460">
-	<img src="screenshots/Page 3.jpg" width="280" height="460">
-	</div>
-	
-	&nbsp;
-	
-	<b><p class="section">Dependancy</p></b>
-	<div class="depen">
-	<p>Anemome</p>
-	<p>Snowboard</p>
-	</div>
-	&nbsp;
-	<b><p class="section">Updates</p></b>
-	<div class="upd">
-	<p>iOS: 13.0 - 13.7</p>
-	<p>Updated: 18/10/20</p>
-	<p>Version: 2.1</p>
-	</div>
-	&nbsp;
-	<b><p class="section">Changelog</p></b>
-	<div class="chang">
-	<p>&bull; Fixed Calender Text Size & Color</p>
-	</div>
-	
-	&nbsp;
-	
-	<b><p class="section">Support</p></b>
-	<a class="button" href="https://twitter.com/amazinow3n">Twitter</a>
-	<a class="button2" href="">Discord</a>
-	<a class="button3" href="mailto:amazinowen@gmail.com">Email</a>
-
-</div>
-</center>
-
-<center>
-<footer><p style="color:white">&copy; UGz Repo Copyright 2020</p></footer>
-</center>
-
+    <div class="body">
+        <div style="background-image: url(../Colourful13/img/CF13Banner.png)" class="banner_underlay"></div>
+        <div class="package package_head">
+            <img src="../Colourful13/img/CF13_icon.png">
+            <div class="package_info">
+                <h1 class="package_name">Colourful13</h1>
+                <p class="package_caption">UG</p>
+            </div>
+        </div>
+        <div class="nav">
+            <div class="nav_btn active tweak_info_btn" onclick="swap('.changelog','.tweak_info');">Details</div>
+            <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Changelog</div>
+        </div>
+        <div class="tweak_info">
+			<b><p>Colourful13</p></b><br>
+			<p>A Beautiful colourful icon theme!</p><br>
+			<p>To have icons in the settings download sparkdev's snowboard settings addon.</p>
+			<br>
+			<b><p>Screenshots</p></b>
+            <div class="scroll_view"><img class="img_card" src="../Colourful13/screenshots/Page 1.jpg"><img class="img_card" src="../Colourful13/screenshots/Page 2.jpg"><img class="img_card" src="../Colourful13/screenshots/Page 3.jpg"></div>
+            <br>
+			<div class="md_view">
+			<h3>Requires</h3>
+			<div class="table">
+                <div class="text">&bull; Anemome</div>
+                <div class="text">&bull; Snowboard</div>
+                <br><br>
+                </div>
+			</div>
+            <h3>Information</h3>
+            <div class="table">
+                <div class="cell">
+                    <div class="title">Developer</div>
+                    <div class="text">UG</div>
+                    <br><br>
+                </div>
+                <div class="cell">
+                    <div class="title">Compatibility</div>
+                    <div class="text">iOS 13.0 - 13.7</div>
+                    <br><br>
+                </div>
+	                <div class="cell">
+                    <div class="title">Version</div>
+                    <div class="text">2.1</div>
+                    <br><br>
+                </div>
+				<div class="cell">
+                    <div class="title">Section</div>
+                    <div class="text">Themes</div>
+                    <br><br>
+                </div>
+            </div>
+			<br>
+			<b><p class="section">Support</p></b>
+			<center>
+				<a class="button" href="https://twitter.com/amazinow3n">Twitter</a>
+				<a class="button2" href="">Discord</a>
+				<a class="button3" href="mailto:amazinowen@gmail.com">Email</a>
+			</center>
+        </div>
+        <div class="changelog">
+            <div class="changelog_entry">
+                <h4>2.1</h4>
+                <div class="md_view"><p>&bull; Fixed Calender Text Size & Color</p>
+		</div>
+            </div><div class="changelog_entry">
+                <h4>2.0</h4>
+                <div class="md_view"><p>&bull; Added Calender Text Size & Color</p>
+		</div>
+            </div>
+        </div>
+        <div class="caption center footer">&copy; UGz Repo Copyright 2020</div>
+    </div>
 </body>
+<script>compatible("13.0","13.7","iOS 13.0 to 13.7");externalize()</script>
 </html>

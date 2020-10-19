@@ -1,65 +1,82 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
-<title>azflibrary</title>
-<link rel="shortcut icon" href="azf.png"/>
-<link rel="stylesheet" href="../css/pack.css">
-<style>
-	body, html{
-		height:100%;
-		background-color:#101010;
-	}
-</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=0">
+	<link rel="shortcut icon" href="./img/azf_icon.png"/>
+    <title>azflibrary</title>
+    <link rel="stylesheet" type="text/css" href="../css/pack.css">
+    <style>a, .tint, .table-btn:after {color: #e8e348} .active {color: #e8e348;border-bottom: 2px solid #e8e348;}</style>
+    <script src="../css/pack.js"></script>
+    <meta name="theme-color" content="#e8e348">
 </head>
 <body>
-
-<center>
-<div class="content">
-
-	<b><p class="section">Tweak</p></b>
-	<div class="title">
-		<img src="azf.png">
-		<h1>azflibrary</h1>
-		<p>Version: 2.6</p>
-		<p>Owner: Azozzalfiras</p>
-	</div>
-	<br>
-	<b><p class="section">Description</p></b>
-
-	<div class="desc">
-	<p>A Jailbreak Tweak to help load Tweaks Manager</p>
-	<p>added to my repo temporally due to it not being on packix repo anymore</p>
-	</div>
-	<br>
-	<b><p class="section">Dependancy</p></b>
-	<div class="depen">
-	<p>Applist</p>
-	<p>Rocketbootstrap</p>
-	<p>Mobilesubstrate</p>
-	</div>
-	<br>
-	<b><p class="section">Updates</p></b>
-	<div class="upd">
-	<p>iOS: 13.0 - 13.7</p>
-	<p>Updated: 13/10/20</p>
-	<p>Version: 2.6</p>
-	</div>
-	&nbsp;
-	<b><p class="section">Changelog</p></b>
-	<div class="chang">
-	<p>• Added to my repo temporally</p>
-	</div>
-	<br>
-	<b><p class="section">Support</p></b>
-	<a class="button" href="https://twitter.com/amazinow3n">Twitter</a>
-	<a class="button2" href="">Discord</a>
-	<a class="button3" href="mailto:amazinowen@gmail.com">Email</a>
-
-</div>
-</center>
-<center>
-<footer><p style="color:white">&copy; UGz Repo Copyright 2020</p></footer>
-</center>
+    <div class="body">
+        <div class="package package_head">
+            <img src="./img/azf_icon.png">
+            <div class="package_info">
+                <h1 class="package_name">azflibrary</h1>
+                <p class="package_caption">Azozzalfiras</p>
+            </div>
+        </div>
+        <div class="nav">
+            <div class="nav_btn active tweak_info_btn" onclick="swap('.changelog','.tweak_info');">Details</div>
+            <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Changelog</div>
+        </div>
+        <div class="tweak_info">
+			<b><p>azflibrary</p></b><br>
+			<p>A Jailbreak Tweak to help load Tweaks Manager</p>
+			<p>added to my repo temporally due to it not being on packix repo anymore</p>
+			<br>
+            <div class="md_view">
+			<h3>Requires</h3>
+			<div class="table">
+                <div class="text">&bull; Applist</div>
+                <div class="text">&bull; Rocketbootstrap</div>
+				<div class="text">&bull; Mobilesubstrate</div>
+                <br><br>
+                </div>
+			</div>
+            <h3>Information</h3>
+            <div class="table">
+                <div class="cell">
+                    <div class="title">Developer</div>
+                    <div class="text">Azozzalfiras</div>
+                    <br><br>
+                </div>
+                <div class="cell">
+                    <div class="title">Compatibility</div>
+                    <div class="text">iOS 13.0 - 13.7</div>
+                    <br><br>
+                </div>
+			    <div class="cell">
+                    <div class="title">Version</div>
+                    <div class="text">2.6</div>
+                    <br><br>
+                </div>
+                <div class="cell">
+                    <div class="title">Section</div>
+                    <div class="text">Tweaks</div>
+                    <br><br>
+                </div>
+        </div>
+		<br>
+		<b><p class="section">Support</p></b>
+			<center>
+				<a class="button" href="https://twitter.com/amazinow3n">Twitter</a>
+				<a class="button2" href="">Discord</a>
+				<a class="button3" href="mailto:amazinowen@gmail.com">Email</a>
+			</center>
+        </div>
+        <div class="changelog">
+            <div class="changelog_entry">
+                <h4>2.6</h4>
+                <div class="md_view"><p>&bull; Added to my repo temporally</p>
+		</div>
+            </div>
+        </div>
+        <div class="caption center footer">&copy; UGz Repo Copyright 2020</div>
+    </div>
 </body>
+<script>compatible("13.0","13.7","iOS 13.0 to 13.7");externalize()</script>
 </html>
