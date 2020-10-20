@@ -133,13 +133,12 @@
           "class": "DepictionMarkdownView"
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "spacing": 16,
           "class": "DepictionSpacerView"
         },
-        {
-          "spacing": 20,
-          "class": "DepictionSpacerView"
-        }
 		{
           "title": "v2.2",
           "useBoldText": true,
@@ -167,13 +166,12 @@
           "class": "DepictionMarkdownView"
         },
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "spacing": 16,
           "class": "DepictionSpacerView"
         },
-        {
-          "spacing": 20,
-          "class": "DepictionSpacerView"
-        }
       ],
       "class": "DepictionStackView"
     }
