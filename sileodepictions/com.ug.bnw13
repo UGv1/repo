@@ -67,7 +67,7 @@
         },
         {
           "title": "Version",
-          "text": "2.2",
+          "text": "2.3",
           "class": "DepictionTableTextView"
         },
         {
@@ -116,7 +116,27 @@
     {
       "tabname": "Changelog",
       "views": [
-   {
+	   {
+          "title": "v2.3",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed: Theme layout inside Snowboard",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed: Incorrect icon folder show (Snowboard)",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 10,
+          "class": "DepictionSpacerView"
+        },
+		{
           "title": "v2.2",
           "useBoldText": true,
           "useBottomMargin": true,
@@ -143,11 +163,7 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "spacing": 20,
+          "spacing": 10,
           "class": "DepictionSpacerView"
         },
       ],
