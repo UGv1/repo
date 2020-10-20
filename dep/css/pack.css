@@ -321,3 +321,7 @@ hr {
         background-color: #3d3d3d;
         border: none;
 }
+
+img {
+    pointer-events: none;
+}
