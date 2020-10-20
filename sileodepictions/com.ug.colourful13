@@ -132,6 +132,11 @@
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20/10/2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
         {
           "class": "DepictionSeparatorView"
         },
@@ -165,6 +170,11 @@
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20/10/2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
         {
           "spacing": 16,
           "class": "DepictionSpacerView"
