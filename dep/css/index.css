@@ -1,3 +1,22 @@
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 2px;
+}
+
+h4 {
+    color: white;
+    margin-left: 80px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    color: white;
+    margin-left: 210px;
+    margin-top: 70px;
+    margin-bottom: 15px;
+}
+
 .button1{
 	display:inline-block;
 	width:80px;
@@ -69,6 +88,277 @@
 	box-shadow: 2px 2px 10px 10px #5d94fc;
 }
 
+/* Theme Buttons */
+.button5{
+	background-image: center;
+	display:inline-block;
+	height: 70px;
+	width:280px;
+	padding:10px;
+	border-radius:20px;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+	transition: all 0.2s ease-in-out;
+	z-index: -2;
+}
+
+.button5a{
+	background-image: center;
+	display: inline-block;
+	transform: translate(-3.2%, -11%);
+	height: 90px;
+	width: 299px;
+	border-radius: 20px;
+	z-index: -2;
+}
+
+.glow-button5:hover {
+	color: black;
+	box-shadow: 2px 2px 15px 8px #953aa1;
+}
+
+.button6{
+	background-image: center;
+	display:inline-block;
+	height: 70px;
+	width:280px;
+	padding:10px;
+	border-radius:20px;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+	transition: all 0.2s ease-in-out;
+	z-index: -2;
+}
+
+.button6a{
+	background-image: center;
+	display: inline-block;
+	transform: translate(-3.2%, -11%);
+	height: 90px;
+	width: 299px;
+	border-radius: 20px;
+	z-index: -2;
+}
+
+.glow-button6:hover {
+	color: black;
+	box-shadow: 2px 2px 15px 8px #7a7d7b;
+}
+
+/* Tweak Buttons */
+.button7{
+	background-image: center;
+	display:inline-block;
+	height: 70px;
+	width:280px;
+	padding:10px;
+	border-radius:20px;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+	transition: all 0.2s ease-in-out;
+}
+
+.button7a{
+	background-image: center;
+	display: inline-block;
+	transform: translate(-3.2%, -11%);
+	height: 90px;
+	width: 299px;
+	border-radius: 20px;
+	z-index: -2;
+}
+
+.glow-button7:hover {
+	color: black;
+	box-shadow: 2px 2px 15px 8px #a13b3b;
+}
+
+.button8{
+	background-image: center;
+	display:inline-block;
+	height: 70px;
+	width:280px;
+	padding:10px;
+	border-radius:20px;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+	transition: all 0.2s ease-in-out;
+	z-index: -2;
+}
+
+.button8a{
+	background-image: center;
+	display: inline-block;
+	transform: translate(-3.2%, -11%);
+	height: 90px;
+	width: 299px;
+	border-radius: 20px;
+	z-index: -2;
+}
+
+.glow-button8:hover {
+	color: black;
+	box-shadow: 2px 2px 15px 8px #4394ab;
+}
+
+.button9{
+	background-image: center;
+	display:inline-block;
+	height: 70px;
+	width:280px;
+	padding:10px;
+	border-radius:20px;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+	transition: all 0.2s ease-in-out;
+	z-index: -2;
+}
+
+.button9a{
+	background-image: center;
+	display: inline-block;
+	transform: translate(-3.2%, -11%);
+	height: 90px;
+	width: 299px;
+	border-radius: 20px;
+	z-index: -2;
+}
+
+.glow-button9:hover {
+	color: black;
+	box-shadow: 2px 2px 15px 8px #713ba1;
+}
+
+.button10{
+	background-image: center;
+	display:inline-block;
+	height: 70px;
+	width:280px;
+	padding:10px;
+	border-radius:20px;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+	transition: all 0.2s ease-in-out;
+	z-index: -2;
+}
+
+.button10a{
+	background-image: center;
+	display: inline-block;
+	transform: translate(-3.2%, -11%);
+	height: 90px;
+	width: 299px;
+	border-radius: 20px;
+	z-index: -2;
+}
+
+.glow-button10:hover {
+	color: black;
+	box-shadow: 2px 2px 15px 8px #4958b8;
+}
+
+.button11{
+	background-image: center;
+	display:inline-block;
+	height: 70px;
+	width:280px;
+	padding:10px;
+	border-radius:20px;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+	transition: all 0.2s ease-in-out;
+	z-index: -2;
+}
+
+.button11a{
+	background-image: center;
+	display: inline-block;
+	transform: translate(-3.2%, -11%);
+	height: 90px;
+	width: 299px;
+	border-radius: 20px;
+	z-index: -2;
+}
+
+.glow-button11:hover {
+	color: black;
+	box-shadow: 2px 2px 15px 8px #d67c2d;
+}
+
+.button12{
+	background-image: center;
+	display:inline-block;
+	height: 70px;
+	width:280px;
+	padding:10px;
+	border-radius:20px;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+	transition: all 0.2s ease-in-out;
+	z-index: -2;
+}
+
+.button12a{
+	background-image: center;
+	display: inline-block;
+	transform: translate(-3.2%, -11%);
+	height: 90px;
+	width: 299px;
+	border-radius: 20px;
+	z-index: -2;
+}
+
+.glow-button12:hover {
+	color: black;
+	box-shadow: 2px 2px 15px 8px #7f2c8a;
+}
+
+.button13{
+	background-image: center;
+	display:inline-block;
+	height: 70px;
+	width:280px;
+	padding:10px;
+	border-radius:20px;
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	font-weight:500;
+	transition: all 0.2s ease-in-out;
+	z-index: -2;
+}
+
+.button13a{
+	background-image: center;
+	display: inline-block;
+	transform: translate(-3.2%, -11%);
+	height: 90px;
+	width: 299px;
+	border-radius: 20px;
+	z-index: -2;
+}
+
+.glow-button13:hover {
+	color: black;
+	box-shadow: 2px 2px 15px 8px #5e2c8a;
+}
+
 .gap-10 { 
 	width:100%; 
 	height:10px; 
@@ -117,6 +407,13 @@
 .gap-100 { 
 	width:100%; 
 	height:100px; 
+}
+
+hr {
+		width:1000px;
+        height: 1.5px;
+        background-color: #2d2d2d;
+        border: none;
 }
 
 img {
