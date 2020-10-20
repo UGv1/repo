@@ -136,6 +136,10 @@
           "spacing": 10,
           "class": "DepictionSpacerView"
         },
+        {
+          "spacing": 10,
+          "class": "DepictionSpacerView"
+        },
 		{
           "title": "v2.2",
           "useBoldText": true,
@@ -161,6 +165,10 @@
           "markdown": "\t\n\u2022 Added Extension (Folder)",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 10,
+          "class": "DepictionSpacerView"
         },
         {
           "spacing": 10,
