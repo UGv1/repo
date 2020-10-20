@@ -117,7 +117,7 @@
       "tabname": "Changelog",
       "views": [
 	   {
-          "title": "v2.3",
+          "title": "Version 2.3",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
@@ -140,7 +140,7 @@
           "class": "DepictionSpacerView"
         },
 		{
-          "title": "v2.2",
+          "title": "Version 2.2",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
@@ -164,9 +164,6 @@
           "markdown": "\t\n\u2022 Added Extension (Folder)",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
         },
         {
           "spacing": 16,

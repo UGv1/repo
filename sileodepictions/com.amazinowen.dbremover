@@ -117,6 +117,10 @@
           "class": "DepictionMarkdownView"
         },
         {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
           "class": "DepictionSeparatorView"
         },
     		{
@@ -129,7 +133,11 @@
           "markdown": "\t\n\u2022 Minor update fixes some issues with respringing",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
-        }
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
       ],
       "class": "DepictionStackView"
     }

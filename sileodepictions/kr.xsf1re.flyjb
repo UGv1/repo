@@ -104,7 +104,11 @@
           "markdown": "\t\n\u2022 Added to repo temporally",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
-        }
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
       ],
       "class": "DepictionStackView"
     }

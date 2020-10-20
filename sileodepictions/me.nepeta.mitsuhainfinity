@@ -134,6 +134,10 @@
           "class": "DepictionMarkdownView"
         },
         {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
           "class": "DepictionSeparatorView"
         },
     		{
@@ -146,7 +150,11 @@
           "markdown": "\t\n\u2022 Add support for iOS 13",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
-        }
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
       ],
       "class": "DepictionStackView"
     }

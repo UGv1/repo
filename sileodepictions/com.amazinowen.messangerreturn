@@ -87,6 +87,10 @@
           "class": "DepictionMarkdownView"
         },
         {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
           "class": "DepictionSeparatorView"
         },
     		{
@@ -99,7 +103,11 @@
           "markdown": "\t\n\u2022 Initial release.",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
-        }
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
       ],
       "class": "DepictionStackView"
     }

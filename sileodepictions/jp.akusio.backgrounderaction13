@@ -99,7 +99,7 @@
       "tabname": "Changelog",
       "views": [
    {
-          "title": "v0.1.4",
+          "title": "Version 0.1.4",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"

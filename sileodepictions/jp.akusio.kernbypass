@@ -95,7 +95,7 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "v0.0.3",
+          "title": "Version 0.0.3",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
@@ -104,12 +104,16 @@
           "markdown": "\t\n\u2022 Added to repo temporally",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "v0.0.2",
+          "title": "Version 0.0.2",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
@@ -118,6 +122,10 @@
           "markdown": "\t\n\u2022 Added to repo temporally",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
       ],
       "class": "DepictionStackView"

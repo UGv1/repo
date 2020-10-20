@@ -103,6 +103,10 @@
           "class": "DepictionMarkdownView"
         },
         {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
           "class": "DepictionSeparatorView"
         },
 		{
@@ -117,9 +121,13 @@
           "class": "DepictionMarkdownView"
         },
         {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
           "class": "DepictionSeparatorView"
         },
-    		{
+    	{
           "title": "v0.1.1-1+Debug",
           "useBoldText": true,
           "useBottomMargin": true,
@@ -129,6 +137,10 @@
           "markdown": "\t\n\u2022 Fixed Depictions.",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -143,7 +155,11 @@
           "markdown": "\t\n\u2022 Initial release",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
-        }
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
       ],
       "class": "DepictionStackView"
     }
