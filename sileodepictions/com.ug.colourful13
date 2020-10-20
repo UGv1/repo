@@ -141,7 +141,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "spacing": 16,
+          "spacing": 12,
           "class": "DepictionSpacerView"
         },
 		{
@@ -176,7 +176,7 @@
 			"class": "DepictionMarkdownView"
 		},
         {
-          "spacing": 16,
+          "spacing": 12,
           "class": "DepictionSpacerView"
         },
       ],
