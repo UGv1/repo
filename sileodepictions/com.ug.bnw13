@@ -67,12 +67,12 @@
         },
         {
           "title": "Version",
-          "text": "2.3",
+          "text": "2.4",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "20/10/2020",
+          "text": "21/10/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -116,6 +116,34 @@
     {
       "tabname": "Changelog",
       "views": [
+	   {
+          "title": "Version 2.4",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added: Icon inside of cydia",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed: Padding on Calender",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/10/2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
 	   {
           "title": "Version 2.3",
           "useBoldText": true,
