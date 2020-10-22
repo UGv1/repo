@@ -19,344 +19,281 @@ h3 {
 
 .button1{
 	display:inline-block;
-	width:80px;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/assets/repo/cydia.png");
+	background-size: 55px 55px;
+	background-position:center;
+	background-repeat: no-repeat;
+	width:30px;
+	height:30px;
 	padding:10px;
-	border-radius:10px;
+	border-radius:30px;
 	background-color:#8B4513;
 	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 }
 
 .glow-button1:hover {
 	color: black;
-	box-shadow: 2px 2px 10px 10px #8b4513;
+	box-shadow: 0px 0px 15px 8px #8b4513;
 }
 
 .button2{
 	display:inline-block;
-	width:80px;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/assets/repo/zebra.png");
+	background-size: 55px 55px;
+	background-position:center;
+	background-repeat: no-repeat;
+	width:30px;
+	height:30px;
 	padding:10px;
-	border-radius:10px;
+	border-radius:30px;
 	background-color:#a8a7a7;
 	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 }
 
 .glow-button2:hover {
 	color: black;
-	box-shadow: 2px 2px 10px 10px #a8a7a7;
+	box-shadow: 0px 0px 15px 8px #a8a7a7;
 }
 .button3{
 	display:inline-block;
-	width:80px;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/assets/repo/sileo.png");
+	background-size: 55px 55px;
+	background-position:center;
+	background-repeat: no-repeat;
+	width:30px;
+	height:30px;
 	padding:10px;
-	border-radius:10px;
+	border-radius:30px;
 	background-color:#7cd6e2;
 	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 }
 
 .glow-button3:hover {
 	color: black;
-	box-shadow: 2px 2px 10px 10px #7cd6e2;
+	box-shadow: 0px 0px 15px 8px #7cd6e2;
 }
 
 .button4{
 	display:inline-block;
-	width:80px;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/assets/repo/installer.png");
+	background-size: 55px 55px;
+	background-position:center;
+	background-repeat: no-repeat;
+	width:30px;
+	height:30px;
 	padding:10px;
-	border-radius:10px;
+	border-radius:30px;
 	background-color:#5d94fc;
 	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 }
 
 .glow-button4:hover {
 	color: black;
-	box-shadow: 2px 2px 10px 10px #5d94fc;
+	box-shadow: 0px 0px 15px 8px #5d94fc;
 }
 
 /* Theme Buttons */
 .button5{
-	background-image: center;
 	display:inline-block;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/Colourful13/img/CF13Banner.png");
+	background-size: 222px 90px;
+	background-position:center;
+	background-repeat: no-repeat;
 	height: 60px;
 	width:201px;
 	padding:10px;
 	margin:10px;
 	border-radius:20px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 	z-index: -2;
-}
-
-.button5a{
-	background-image: center;
-	display: inline-block;
-	transform: translate(-4.5%, -12.5%);
-	height: 80.6px;
-	width: 221px;
-	border-radius: 20px;
-	z-index: -2;
+	border:0.1px solid black;
 }
 
 .glow-button5:hover {
 	color: black;
 	box-shadow: 2px 2px 15px 8px #953aa1;
+	border:0.1px solid black;
 }
 
 .button6{
-	background-image: center;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/BnW13/img/BnW13Banner.png");
+	background-size: 222px 90px;
+	background-position:center;
+	background-repeat: no-repeat;
 	display:inline-block;
 	height: 60px;
 	width:201px;
 	padding:10px;
 	border-radius:20px;
 	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 	z-index: -2;
-}
-
-.button6a{
-	background-image: center;
-	display: inline-block;
-	transform: translate(-4.6%, -12.6%);
-	height: 80.6px;
-	width: 221px;
-	border-radius: 20px;
-	z-index: -2;
+	border:0.1px solid black;
 }
 
 .glow-button6:hover {
 	color: black;
-	box-shadow: 2px 2px 15px 8px #7a7d7b;
+	box-shadow: 0px 0px 15px 8px #7a7d7b;
+	border:0.1px solid black;
 }
 
 /* Tweak Buttons */
 .button7{
-	background-image: center;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/DBRemover/img/DBRBanner.png");
+	background-size: 222px 90px;
+	background-position:center;
+	background-repeat: no-repeat;
 	display:inline-block;
 	height: 60px;
 	width:201px;
 	padding:10px;
 	border-radius:20px;
 	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
-}
-
-.button7a{
-	background-image: center;
-	display: inline-block;
-	transform: translate(-4.4%, -12.4%);
-	height: 80.6px;
-	width: 221px;
-	border-radius: 20px;
-	z-index: -2;
+	border:0.1px solid black;
 }
 
 .glow-button7:hover {
 	color: black;
-	box-shadow: 2px 2px 15px 8px #a13b3b;
+	box-shadow: 0px 0px 15px 8px #a13b3b;
+	border:0.1px solid black;
 }
 
 .button8{
-	background-image: center;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/DBRemover13/img/DBR13Banner.png");
+	background-size: 222px 90px;
+	background-position:center;
+	background-repeat: no-repeat;
 	display:inline-block;
 	height: 60px;
 	width:201px;
 	padding:10px;
 	border-radius:20px;
 	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 	z-index: -2;
-}
-
-.button8a{
-	background-image: center;
-	display: inline-block;
-	transform: translate(-4.5%, -12.4%);
-	height: 80.6px;
-	width: 221px;
-	border-radius: 20px;
-	z-index: -2;
+	border:0.1px solid black;
 }
 
 .glow-button8:hover {
 	color: black;
-	box-shadow: 2px 2px 15px 8px #4394ab;
+	box-shadow: 0px 0px 15px 8px #4394ab;
+	border:0.1px solid black;
 }
 
 .button9{
-	background-image: center;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/Kernbypass/img/KB_Banner.png");
+	background-size: 222px 90px;
+	background-position:center;
+	background-repeat: no-repeat;
 	display:inline-block;
 	height: 60px;
 	width:201px;
 	padding:10px;
 	border-radius:20px;
 	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 	z-index: -2;
-}
-
-.button9a{
-	background-image: center;
-	display: inline-block;
-	transform: translate(-4.5%, -12.4%);
-	height: 80.6px;
-	width: 221px;
-	border-radius: 20px;
-	z-index: -2;
+	border:0.1px solid black;
 }
 
 .glow-button9:hover {
 	color: black;
-	box-shadow: 2px 2px 15px 8px #713ba1;
+	box-shadow: 0px 0px 15px 8px #713ba1;
+	border:0.1px solid black;
 }
 
 .button10{
-	background-image: center;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/Milkyway2/img/MW2_Banner.png");
+	background-size: 222px 90px;
+	background-position:center;
+	background-repeat: no-repeat;
 	display:inline-block;
 	height: 60px;
 	width:201px;
 	padding:10px;
 	border-radius:20px;
 	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 	z-index: -2;
-}
-
-.button10a{
-	background-image: center;
-	display: inline-block;
-	transform: translate(-4.5%, -12.4%);
-	height: 80.6px;
-	width: 221px;
-	border-radius: 20px;
-	z-index: -2;
+	border:0.1px solid black;
 }
 
 .glow-button10:hover {
 	color: black;
-	box-shadow: 2px 2px 15px 8px #4958b8;
+	box-shadow: 0px 0px 15px 8px #4958b8;
+	border:0.1px solid black;
 }
 
 .button11{
-	background-image: center;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/FlyJB/img/FJB_Banner.png");
+	background-size: 222px 90px;
+	background-position:center;
+	background-repeat: no-repeat;
 	display:inline-block;
 	height: 60px;
 	width:201px;
 	padding:10px;
 	border-radius:20px;
 	margin:10px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 	z-index: -2;
-}
-
-.button11a{
-	background-image: center;
-	display: inline-block;
-	transform: translate(-4.5%, -12.4%);
-	height: 80.6px;
-	width: 221px;
-	border-radius: 20px;
-	z-index: -2;
+	border:0.1px solid black;
 }
 
 .glow-button11:hover {
 	color: black;
-	box-shadow: 2px 2px 15px 8px #d67c2d;
+	box-shadow: 0px 0px 15px 8px #d67c2d;
+	border:0.1px solid black;
 }
 
 .button12{
-	background-image: center;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/MitsuhaInfinity/img/MIBanner.png");
+	background-size: 222px 90px;
+	background-position:center;
+	background-repeat: no-repeat;
 	display:inline-block;
 	height: 60px;
 	width:201px;
 	padding:10px;
 	margin:10px;
 	border-radius:20px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 	z-index: -2;
-}
-
-.button12a{
-	background-image: center;
-	display: inline-block;
-	transform: translate(-4.5%, -12.4%);
-	height: 80.6px;
-	width: 221px;
-	border-radius: 20px;
-	z-index: -2;
+	border:0.1px solid black;
 }
 
 .glow-button12:hover {
 	color: black;
-	box-shadow: 2px 2px 15px 8px #7f2c8a;
+	box-shadow: 0px 0px 15px 8px #7f2c8a;
+	border:0.1px solid black;
 }
 
 .button13{
-	background-image: center;
+	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/TweaksManager/img/TWMBanner.png");
+	background-size: 222px 90px;
+	background-position:center;
+	background-repeat: no-repeat;
 	display:inline-block;
 	height: 60px;
 	width:201px;
 	padding:10px;
 	margin:10px;
 	border-radius:20px;
-	color:white;
-	text-decoration:none;
-	font-weight:500;
 	transition: all 0.2s ease-in-out;
 	z-index: -2;
+	border:0.1px solid black;
 }
 
-.button13a{
-	background-image: center;
-	display: inline-block;
-	transform: translate(-4.3%, -12.4%);
-	height: 80.6px;
-	width: 221px;
-	border-radius: 20px;
-	z-index: -2;
-}
 
 .glow-button13:hover {
 	color: black;
-	box-shadow: 2px 2px 15px 8px #5e2c8a;
+	box-shadow: 0px 0px 15px 8px #5e2c8a;
+	border:0.1px solid black;
 }
 
 .gap-10 { 
