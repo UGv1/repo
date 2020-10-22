@@ -19,7 +19,7 @@ h3 {
 
 .button1{
 	display:inline-block;
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/assets/repo/cydia.png");
+	background-image: url("../assets/repo/cydia.png");
 	background-size: 55px 55px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -39,7 +39,7 @@ h3 {
 
 .button2{
 	display:inline-block;
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/assets/repo/zebra.png");
+	background-image: url("../assets/repo/zebra.png");
 	background-size: 55px 55px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -58,7 +58,7 @@ h3 {
 }
 .button3{
 	display:inline-block;
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/assets/repo/sileo.png");
+	background-image: url("../assets/repo/sileo.png");
 	background-size: 55px 55px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -78,7 +78,7 @@ h3 {
 
 .button4{
 	display:inline-block;
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/assets/repo/installer.png");
+	background-image: url("../assets/repo/installer.png");
 	background-size: 55px 55px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -99,7 +99,7 @@ h3 {
 /* Theme Buttons */
 .button5{
 	display:inline-block;
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/Colourful13/img/CF13Banner.png");
+	background-image: url("../Colourful13/img/CF13Banner.png");
 	background-size: 222px 90px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -120,7 +120,7 @@ h3 {
 }
 
 .button6{
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/BnW13/img/BnW13Banner.png");
+	background-image: url("../BnW13/img/BnW13Banner.png");
 	background-size: 222px 90px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -143,7 +143,7 @@ h3 {
 
 /* Tweak Buttons */
 .button7{
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/DBRemover/img/DBRBanner.png");
+	background-image: url("../DBRemover/img/DBRBanner.png");
 	background-size: 222px 90px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -164,7 +164,7 @@ h3 {
 }
 
 .button8{
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/DBRemover13/img/DBR13Banner.png");
+	background-image: url("../DBRemover13/img/DBR13Banner.png");
 	background-size: 222px 90px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -186,7 +186,7 @@ h3 {
 }
 
 .button9{
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/Kernbypass/img/KB_Banner.png");
+	background-image: url("../Kernbypass/img/KB_Banner.png");
 	background-size: 222px 90px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -208,7 +208,7 @@ h3 {
 }
 
 .button10{
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/Milkyway2/img/MW2_Banner.png");
+	background-image: url("../Milkyway2/img/MW2_Banner.png");
 	background-size: 222px 90px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -230,7 +230,7 @@ h3 {
 }
 
 .button11{
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/FlyJB/img/FJB_Banner.png");
+	background-image: url("../FlyJB/img/FJB_Banner.png");
 	background-size: 222px 90px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -252,7 +252,7 @@ h3 {
 }
 
 .button12{
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/MitsuhaInfinity/img/MIBanner.png");
+	background-image: url("../MitsuhaInfinity/img/MIBanner.png");
 	background-size: 222px 90px;
 	background-position:center;
 	background-repeat: no-repeat;
@@ -274,7 +274,7 @@ h3 {
 }
 
 .button13{
-	background-image: url("https://raw.githubusercontent.com/UGv1/repo/master/dep/TweaksManager/img/TWMBanner.png");
+	background-image: url("../TweaksManager/img/TWMBanner.png");
 	background-size: 222px 90px;
 	background-position:center;
 	background-repeat: no-repeat;
