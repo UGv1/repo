@@ -67,12 +67,12 @@
         },
         {
           "title": "Version",
-          "text": "2.4",
+          "text": "2.5",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "21/10/2020",
+          "text": "23/10/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -117,6 +117,29 @@
       "tabname": "Changelog",
       "views": [
 	   {
+          "title": "Version 2.5",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added: 10 more icons",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 23-10-2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
+	   {
           "title": "Version 2.4",
           "useBoldText": true,
           "useBottomMargin": true,
@@ -133,7 +156,7 @@
           "class": "DepictionMarkdownView"
         },
 		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/10/2020</small>",
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21-10-2020</small>",
 			"useRawFormat": true,
 			"class": "DepictionMarkdownView"
 		},
@@ -161,7 +184,7 @@
           "class": "DepictionMarkdownView"
         },
 		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20/10/2020</small>",
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20-10-2020</small>",
 			"useRawFormat": true,
 			"class": "DepictionMarkdownView"
 		},
@@ -199,7 +222,7 @@
           "class": "DepictionMarkdownView"
         },
 		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20/10/2020</small>",
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20-10-2020</small>",
 			"useRawFormat": true,
 			"class": "DepictionMarkdownView"
 		},
