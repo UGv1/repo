@@ -203,19 +203,20 @@ img {
     background-size: cover;
     padding: 10px;
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 15px;
     font-weight: bold;
-    height: 25px;
-    width: 275px;
+    height: 10px;
+    width: 500px;
     position: relative;
     display: inline-block;
 }
 
 .scroll_view > .img_card {
     background-color: #ccc;
-    width: 160px;
+    height: 90px;
+    width: 180px;
     margin: 6px;
-    border-radius: 10px;
+    border-radius: 15px;
     font-weight: bold;
     position: relative;
     display: inline-block;
