@@ -210,6 +210,11 @@ h3 {
 	border:0.1px solid black;
 }
 
+.glow-button15:hover {
+	color: black;
+	box-shadow: 0px 0px 15px 8px #7a7d7b;
+	border:0.1px solid black;
+}
 
 /* Tweak Buttons */
 .button7{
@@ -366,10 +371,26 @@ h3 {
 	border:0.1px solid black;
 }
 
+.button16{
+	background-image: url("../KBU/img/KB_Banner.png");
+	background-size: 222px 90px;
+	background-position:center;
+	background-repeat: no-repeat;
+	display:inline-block;
+	height: 60px;
+	width:201px;
+	padding:10px;
+	margin:10px;
+	border-radius:20px;
+	transition: all 0.2s ease-in-out;
+	z-index: -2;
+	border:0.1px solid black;
+}
 
-.glow-button15:hover {
+
+.glow-button16:hover {
 	color: black;
-	box-shadow: 0px 0px 15px 8px #7a7d7b;
+	box-shadow: 0px 0px 15px 8px #5c5c5c;
 	border:0.1px solid black;
 }
 .gap-10 { 
