@@ -48,6 +48,21 @@ h3 {
     margin-bottom: 15px;
 }
 
+.logo{
+	display:inline-block;
+	background-image: url("../assets/UG_512.png");
+	background-size: 130px 130px;
+	background-position:center;
+	background-repeat: no-repeat;
+	width:130px;
+	height:130px;
+	padding:10px;
+	border-radius:0px;
+	background-color:none;
+	margin:10px;
+	transition: all 0.2s ease-in-out;
+}
+
 .button1{
 	display:inline-block;
 	background-image: url("../assets/repo/cydia.png");
