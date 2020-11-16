@@ -123,6 +123,11 @@
           "class": "DepictionSubheaderView"
         },
         {
+          "markdown": "\t\n\u2022 Change: Compressed Theme",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "markdown": "\t\n\u2022 Added: 27 more icons",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
