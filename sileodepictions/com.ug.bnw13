@@ -67,12 +67,12 @@
         },
         {
           "title": "Version",
-          "text": "2.6",
+          "text": "2.7",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "14/11/2020",
+          "text": "16/11/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -117,7 +117,35 @@
       "tabname": "Changelog",
       "views": [
 	   {
-          "title": "Version 2.5",
+          "title": "Version 2.7",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added: 27 more icons",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed: 1 icon bundle ID (Alts)",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 14-11-2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
+	   {
+          "title": "Version 2.6",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
