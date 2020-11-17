@@ -67,12 +67,12 @@
         },
         {
           "title": "Version",
-          "text": "2.7",
+          "text": "2.8",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "16/11/2020",
+          "text": "17/11/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -123,6 +123,34 @@
           "class": "DepictionSubheaderView"
         },
         {
+          "markdown": "\t\n\u2022 Added: 36 more icons",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed: iCleaner bundle ID",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 17-11-2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
+	   {
+          "title": "Version 2.7",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
           "markdown": "\t\n\u2022 Change: Compressed Theme",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
@@ -138,7 +166,7 @@
           "class": "DepictionMarkdownView"
         },
 		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 14-11-2020</small>",
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 16-11-2020</small>",
 			"useRawFormat": true,
 			"class": "DepictionMarkdownView"
 		},
