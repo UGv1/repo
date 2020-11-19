@@ -72,12 +72,12 @@
         },
         {
           "title": "Version",
-          "text": "2.8",
+          "text": "2.9",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "17/11/2020",
+          "text": "19/11/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -121,6 +121,34 @@
     {
       "tabname": "Changelog",
       "views": [
+	   {
+          "title": "Version 2.9",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added: 33 more icons",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed: Burgar King UK bundle ID",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 17-11-2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
 	   {
           "title": "Version 2.8",
           "useBoldText": true,
