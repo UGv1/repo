@@ -23,6 +23,11 @@
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
+		{
+          "markdown": "Settings Extension is now finished ",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
         {
           "markdown": "To have icons in the settings download sparkdev's snowboard settings addon",
           "useSpacing": true,
@@ -72,12 +77,12 @@
         },
         {
           "title": "Version",
-          "text": "2.9",
+          "text": "3.0",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "19/11/2020",
+          "text": "21/11/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -121,6 +126,34 @@
     {
       "tabname": "Changelog",
       "views": [
+	   {
+          "title": "Version 3.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added: 86 more icons",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed: Burgar King UK bundle ID (Finally)",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20-11-2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
 	   {
           "title": "Version 2.9",
           "useBoldText": true,
