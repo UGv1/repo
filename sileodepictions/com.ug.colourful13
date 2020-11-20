@@ -133,18 +133,12 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Added:",
-          "markdown": "\t\n\u2022 Assesabillity icon [Settings]",
-          "markdown": "\t\n\u2022 Research icon [Settings]",
-          "markdown": "\t\n\u2022 Files & Folders icon [Settings]",
-          "markdown": "\t\n\u2022 Exposure Notifications icon [Settings]",
+          "markdown": "\t\n\u2022 Added: 4 more icons to settings",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "\t\n\u2022 Fixed:",
-          "markdown": "\t\n\u2022 Calender icon [Settings]",
-          "markdown": "\t\n\u2022 VPN icon [Settings]",
+          "markdown": "\t\n\u2022 Fixed: Calender & VPN icon",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
