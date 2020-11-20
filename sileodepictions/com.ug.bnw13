@@ -77,7 +77,7 @@
         },
         {
           "title": "Version",
-          "text": "3.0",
+          "text": "3.0.5",
           "class": "DepictionTableTextView"
         },
         {
@@ -126,6 +126,40 @@
     {
       "tabname": "Changelog",
       "views": [
+	   {
+          "title": "Version 3.0.5",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added:",
+          "markdown": "\t\n\u2022 Assesabillity icon [Settings]",
+          "markdown": "\t\n\u2022 Research icon [Settings]",
+          "markdown": "\t\n\u2022 Files & Folders icon [Settings]",
+          "markdown": "\t\n\u2022 Exposure Notifications icon [Settings]",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed:",
+          "markdown": "\t\n\u2022 Calender icon [Settings]",
+          "markdown": "\t\n\u2022 VPN icon [Settings]",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20-11-2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
 	   {
           "title": "Version 3.0",
           "useBoldText": true,
