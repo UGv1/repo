@@ -77,12 +77,12 @@
         },
         {
           "title": "Version",
-          "text": "3.4",
+          "text": "3.4.5",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "26/11/2020",
+          "text": "06/12/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -126,6 +126,44 @@
     {
       "tabname": "Changelog",
       "views": [
+	   {
+          "title": "Version 3.4.5",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+		{
+			"markdown": "Added:",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "markdown": "\t\n\u2022 27 Tweak Extension icons",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Anemone 3 icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Kodi icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 06-12-2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
 	   {
           "title": "Version 3.4",
           "useBoldText": true,
