@@ -77,12 +77,12 @@
         },
         {
           "title": "Version",
-          "text": "3.5",
+          "text": "3.6",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "08/12/2020",
+          "text": "12/12/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -126,6 +126,44 @@
     {
       "tabname": "Changelog",
       "views": [
+	   {
+          "title": "Version 3.6",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+		{
+			"markdown": "Fixed:",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "markdown": "\t\n\u2022 Badges Extension",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Passcode Extension",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Switcher Extension",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 12-12-2020</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
 	   {
           "title": "Version 3.5",
           "useBoldText": true,
