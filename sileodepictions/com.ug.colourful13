@@ -77,12 +77,12 @@
         },
         {
           "title": "Version",
-          "text": "3.6.5",
+          "text": "3.7",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "30/12/2020",
+          "text": "29/1/2021",
           "class": "DepictionTableTextView"
         },
         {
@@ -126,6 +126,39 @@
     {
       "tabname": "Changelog",
       "views": [
+	   {
+          "title": "Version 3.7",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+		{
+			"markdown": "Added:",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "markdown": "\t\n\u2022 AppData icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Substitute icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 29-1-2021</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
 	   {
           "title": "Version 3.6.5",
           "useBoldText": true,
