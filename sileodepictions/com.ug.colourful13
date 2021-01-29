@@ -77,7 +77,7 @@
         },
         {
           "title": "Version",
-          "text": "3.7",
+          "text": "3.7.2",
           "class": "DepictionTableTextView"
         },
         {
@@ -127,21 +127,16 @@
       "tabname": "Changelog",
       "views": [
 	   {
-          "title": "Version 3.7",
+          "title": "Version 3.7.2",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
 		{
-			"markdown": "Added:",
+			"markdown": "Fixed:",
 			"useRawFormat": true,
 			"class": "DepictionMarkdownView"
 		},
-        {
-          "markdown": "\t\n\u2022 AppData icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
         {
           "markdown": "\t\n\u2022 Substitute icon",
           "useSpacing": false,
