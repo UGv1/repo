@@ -155,6 +155,32 @@
           "class": "DepictionSpacerView"
         },
 	   {
+          "title": "Version 3.7",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+		{
+			"markdown": "Added:",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "markdown": "\t\n\u2022 AppData icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Substitute icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 29-1-2021</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+	   {
           "title": "Version 3.6.5",
           "useBoldText": true,
           "useBottomMargin": true,
@@ -197,302 +223,6 @@
         },
 		{
 			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 30-12-2020</small>",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "spacing": 12,
-          "class": "DepictionSpacerView"
-        },
-	   {
-          "title": "Version 3.6.2",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-		{
-			"markdown": "Added:",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "markdown": "\t\n\u2022 8 Tweak icons",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-		{
-			"markdown": "Fixed:",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "markdown": "\t\n\u2022 Apple Feedback icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25-12-2020</small>",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "spacing": 12,
-          "class": "DepictionSpacerView"
-        },
-	   {
-          "title": "Version 3.6",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-		{
-			"markdown": "Fixed:",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "markdown": "\t\n\u2022 Badges Extension",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Passcode Extension",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Switcher Extension",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 12-12-2020</small>",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "spacing": 12,
-          "class": "DepictionSpacerView"
-        },
-	   {
-          "title": "Version 3.5",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-		{
-			"markdown": "Added:",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "markdown": "\t\n\u2022 Badges Extension",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Passcode Extension",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Switcher Extension",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 08-12-2020</small>",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "spacing": 12,
-          "class": "DepictionSpacerView"
-        },
-	   {
-          "title": "Version 3.4.5",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-		{
-			"markdown": "Added:",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "markdown": "\t\n\u2022 27 Tweak Extension icons",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Anemone 3 icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Kodi icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 06-12-2020</small>",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "spacing": 12,
-          "class": "DepictionSpacerView"
-        },
-	   {
-          "title": "Version 3.4",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-		{
-			"markdown": "Added:",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "markdown": "\t\n\u2022 34 app icons",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Motion & Fitness icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Find My icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Set Up Family Sharing icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Apps icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 App Updates icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 AutoFill Passwords icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Books & Audiobooks icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 26-11-2020</small>",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "spacing": 12,
-          "class": "DepictionSpacerView"
-        },
-	   {
-          "title": "Version 3.3",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-		{
-			"markdown": "Fixed:",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "markdown": "\t\n\u2022 Accessibility icons settings",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Notifications icon in settings",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Siri icon in settings",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25-11-2020</small>",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "spacing": 12,
-          "class": "DepictionSpacerView"
-        },
-	   {
-          "title": "Version 3.2",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-		{
-			"markdown": "Added:",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "markdown": "\t\n\u2022 12 icons to Tweak Extention [Settings]",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-		{
-			"markdown": "Fixed:",
-			"useRawFormat": true,
-			"class": "DepictionMarkdownView"
-		},
-        {
-          "markdown": "\t\n\u2022 Gesto for iOS 11 & 12 icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "\t\n\u2022 Gesto for iOS 13 icon",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-		{
-			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 24-11-2020</small>",
 			"useRawFormat": true,
 			"class": "DepictionMarkdownView"
 		},
