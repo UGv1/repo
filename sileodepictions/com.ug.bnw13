@@ -77,12 +77,12 @@
         },
         {
           "title": "Version",
-          "text": "3.7.2",
+          "text": "3.8",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "29/1/2021",
+          "text": "06/3/2021",
           "class": "DepictionTableTextView"
         },
         {
@@ -126,6 +126,49 @@
     {
       "tabname": "Changelog",
       "views": [
+	   {
+          "title": "Version 3.8",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+		{
+			"markdown": "Added:",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "markdown": "\t\n\u2022 10 Tweak Setting icons",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "Updated:",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "markdown": "\t\n\u2022 Amazon icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 ExpressVPN icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 06-3-2021</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
 	   {
           "title": "Version 3.7.2",
           "useBoldText": true,
