@@ -77,12 +77,12 @@
         },
         {
           "title": "Version",
-          "text": "3.8.5",
+          "text": "3.9",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "09/3/2021",
+          "text": "21/4/2021",
           "class": "DepictionTableTextView"
         },
         {
@@ -126,6 +126,54 @@
     {
       "tabname": "Changelog",
       "views": [
+	   {
+          "title": "Version 3.9",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+		{
+			"markdown": "Added:",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "markdown": "\t\n\u2022 New iOS 14 icons",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 More Tweak icons (Settings)",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Reprovision Reborn icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Libhooker Config icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "\t\n\u2022 Taurine Jailbreak icon",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		{
+			"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21-4-2021</small>",
+			"useRawFormat": true,
+			"class": "DepictionMarkdownView"
+		},
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
 	   {
           "title": "Version 3.8.5",
           "useBoldText": true,
